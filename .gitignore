@@ -1,0 +1,17 @@
+# MATLAB source files (not used by index.html)
+*.m
+*.mat
+
+# MATLAB auto-save and temporary files
+*.asv
+*.m~
+*.mex*
+*.mexw64
+*.mexmaci64
+*.mlapp
+*.mlx
+*.slx
+
+# MATLAB session/workspace files
+matlab.mat
+*.fig
